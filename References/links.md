@@ -19,13 +19,13 @@
 
 
 ## Sources
-## Codes
+### Codes
 - https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/language_modeling.ipynb
 - https://www.youtube.com/watch?v=elUCn_TFdQc&ab_channel=ProgrammingHut
 - https://212digital.medium.com/fine-tuning-the-gpt-2-large-language-model-unlocking-its-full-potential-66e3a082ab9c
 - https://www.kaggle.com/code/changyeop/how-to-fine-tune-gpt-2-for-beginners
 
-## Dataset
+### Dataset
 - https://huggingface.co/datasets/wikitext
 
 

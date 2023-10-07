@@ -25,6 +25,11 @@
 
 ![Cross Entropy on Training and Validation](Readme_Img/ce-train_val.png)
 
+- **Improve:**
+    - More pre-process, special token.
+    - Better loss function.
+    - Better hyperparameters.
+    
 ## Web app in localhost
 
 - **Framework:** python, streamlit.
