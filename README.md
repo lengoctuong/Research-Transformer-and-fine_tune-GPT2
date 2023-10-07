@@ -19,7 +19,7 @@
     - Optimizer: AdamW.
     - Learning rate: 2e-5.
     - Sheduler: linear.
-    - Loss: cross entropy.
+    - Loss function: cross entropy.
     - Metric: perplexity.
 - **Training:** refer to ```[GPT-2]_[CLM]_wikitext2-dataset.ipynb```
 
@@ -29,7 +29,7 @@
 
 - **Framework:** python, streamlit.
 
-### Usage:
+### Usage
 
 1. Clone the repository.
 ```bash
