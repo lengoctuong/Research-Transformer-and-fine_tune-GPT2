@@ -1,6 +1,6 @@
 # Research-Transformer-and-fine_tune-GPT2
 
-## Research Transformer and GPT2
+## Research Transformer and GPT-2
 
 - Transformer ([Attention Is All You Need](https://arxiv.org/abs/1706.03762)): architecture, encoder and decoder.
 - GPT-2 ([Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)): Token/Positional Embedding, Masked Multi Self Attention, FCNN, Inference, Causal Language Modeling.
